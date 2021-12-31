@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anmode&label=Profile%20views&color=05ffee&style=plastic" alt="anmode" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anmode" alt="anmode" /></a> </p>
-
 - 👨‍💻 All of my projects are available at [https://github.com/anmode?tab=projects&type=beta](https://github.com/anmode?tab=projects&type=beta)
 
 - 📫 How to reach me **anmol2002.aa1@gmail.com**
@@ -23,4 +21,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=anmode&show_icons=true&theme=radical&locale=en" alt="anmode" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=anmode&theme=dark" alt="anmode" /></p>
-
