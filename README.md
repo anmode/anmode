@@ -1,5 +1,4 @@
-<h2><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> नमस्ते (Namaste)🙏🏻, I'm Anmol Agrawal! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<h2>नमस्ते (Namaste)🙏🏻, I'm Anmol Agrawal! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <p><em>Full stack developer
 </a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
@@ -7,8 +6,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/A2_AnmolAgrawal)
 [![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-agrawal-748389151/)
 ![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
-[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmode.github.io/personalportfolio/)](https://anmolsingh.me/)
-![](https://visitor-badge.glitch.me/badge?page_id=anmol098.anmol098)
+[![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmode.github.io/personalportfolio/)](https://anmode.github.io/personalportfolio/)
 
 ### 📫 Like to meet me?
 
@@ -61,7 +59,7 @@ const anmol = {
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmode)](https://github.com/anmode/github-readme-stats)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anmode)](https://github.com/anmode/github-readme-stats)
+<!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anmode)](https://github.com/anmode/github-readme-stats) -->
 
 <!-- **🐱 My GitHub Data** 
 
