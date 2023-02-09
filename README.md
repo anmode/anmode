@@ -54,7 +54,7 @@ const anmol = {
 
 ![Profile Views](<https://komarev.com/ghpvc/?username=anmode&label=Profile%20views&color=0e75b6&style=flat" alt="anmode">)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20lakh%20lines%20of%20code-blue)
 
 [![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmode)](https://github.com/anmode/github-readme-stats)
 
