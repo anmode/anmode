@@ -57,7 +57,13 @@ const anmol = {
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20Million%20lines%20of%20code-blue)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmode)](https://github.com/anmode/github-readme-stats)
+
+<a href="https://github.com/anmode/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anmode&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anmode&repo=convoychat" />
+</a>
 
 <!-- **🐱 My GitHub Data** 
 
