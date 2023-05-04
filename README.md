@@ -112,17 +112,7 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 
 ```
-
-**I Mostly Code in JavaScript** 
-
-```text
-JavaScript               33 repos            ████████████░░░░░░░░░░░░░   48.53 % 
-Vue                      8 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
-Java                     7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-CSS                      7 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.29 % 
-Dart                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
-
-```
+[![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmode)](https://github.com/anmode/github-readme-stats)
 
 
 
