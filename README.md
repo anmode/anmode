@@ -56,7 +56,7 @@ const anmol = {
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1%20lakh%20lines%20of%20code-blue)
 
-[![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmode)](https://github.com/anmode/github-readme-stats)
+[![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmode&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anmode/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmode)](https://github.com/anmode/github-readme-stats)
 
@@ -112,7 +112,7 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 
 ```
-[![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmode)](https://github.com/anmode/github-readme-stats)
+
 
 
 
