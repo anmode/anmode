@@ -58,7 +58,7 @@ const anmol = {
 
 [![Anmol's GitHub stats](https://github-readme-stats.vercel.app/api?username=anmode&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anmode/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmode)](https://github.com/anmode/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anmode&count_private=true&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anmode/github-readme-stats)
 
 <!-- [![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anmode)](https://github.com/anmode/github-readme-stats) -->
 
