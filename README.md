@@ -5,8 +5,8 @@
 </em></p>
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/misteranmol?label=Follow)](https://twitter.com/A2_AnmolAgrawal)
-[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmol-p-singh/)](https://www.linkedin.com/in/anmol-agrawal-748389151/)
-![GitHub followers](https://img.shields.io/github/followers/anmol098?label=Follow&style=social)
+[![Linkedin: anmol](https://img.shields.io/badge/-anmol-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/anmode/)](https://www.linkedin.com/in/anmol-agrawal-748389151/)
+![GitHub followers](https://img.shields.io/github/followers/anmode?label=Follow&style=social)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmode.github.io/personalportfolio/)](https://anmode.github.io/personalportfolio/)
 
 ### 📫 Like to meet me?
@@ -32,6 +32,7 @@ const anmol = {
     technologies: {
         backEnd: {
             js: ["Node", "Express"],
+            other: [ "ruby", "rust"]
         },
         startups: {
             skills: ["Management", "Innovative thinking", "Execution"]
